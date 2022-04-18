@@ -1,0 +1,14 @@
+#you can use these codes for every type of messaging
+
+
+
+
+import pyautogui as pg
+import time
+time.sleep(10)
+
+for i in range(100):
+
+    pg.typewrite("tum insaaan ke bache ho")
+  #  p.typewrite("hhhhhhhhhhhhhhhhhhhhhhhhh")
+    pg.press("enter")
